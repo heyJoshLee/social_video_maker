@@ -1,0 +1,20 @@
+body {
+  font-family: "Arial";
+  width: 1200px;
+  height: 800px;
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+  background-image: url("images/video_thumb_template.png");
+  background-size: 1200px 800px;
+}
+
+#main_text {
+  position: absolute;
+  left: 400px;
+  top: 500px;
+  font-size: 32px;
+  width: 700px;
+  text-align: center;
+}
+m

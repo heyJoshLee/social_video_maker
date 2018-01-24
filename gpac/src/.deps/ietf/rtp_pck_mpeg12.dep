@@ -1,0 +1,15 @@
+ietf/rtp_pck_mpeg12.o: ietf/rtp_pck_mpeg12.c \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/ietf_dev.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/ietf.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/list.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/tools.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/version.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/revision.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/bitstream.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/sync_layer.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/network.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/thread.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/constants.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/avparse.h

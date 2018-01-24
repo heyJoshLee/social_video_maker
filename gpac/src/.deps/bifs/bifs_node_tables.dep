@@ -1,0 +1,12 @@
+bifs/bifs_node_tables.o: bifs/bifs_node_tables.c \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/bifs_tables.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/nodes_mpeg4.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/scenegraph_vrml.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/scenegraph.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/list.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/tools.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/version.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/revision.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/maths.h

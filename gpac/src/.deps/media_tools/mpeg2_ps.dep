@@ -1,0 +1,8 @@
+media_tools/mpeg2_ps.o: media_tools/mpeg2_ps.c media_tools/mpeg2_ps.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/avparse.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/bitstream.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/tools.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/version.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/revision.h

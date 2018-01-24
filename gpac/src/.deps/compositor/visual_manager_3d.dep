@@ -1,0 +1,37 @@
+compositor/visual_manager_3d.o: compositor/visual_manager_3d.c \
+ compositor/visual_manager.h compositor/drawable.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/compositor_dev.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/compositor.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/scenegraph.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/list.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/tools.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/version.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/revision.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/maths.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/user.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/events.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/events_constants.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/module.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/config_file.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/color.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/constants.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/thread.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/mediaobject.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/scenegraph_vrml.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/scenegraph_svg.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/svg_types.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/path2d.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/modules/raster2d.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/modules/font.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/modules/video_out.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/modules/audio_out.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/camera.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/mesh.h \
+ compositor/visual_manager_2d.h compositor/visual_manager_3d.h \
+ compositor/texturing.h compositor/nodes_stacks.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/nodes_mpeg4.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/nodes_x3d.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/nodes_svg.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/options.h

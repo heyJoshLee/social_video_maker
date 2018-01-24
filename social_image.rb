@@ -9,7 +9,7 @@ class SocialImage
     @hash_tag = hash_tag
     @count = count
     write_html_for_word_post
-    convert_html_to_png
+    convert_html_to_png("image_in_html.html", "social_image")
   end
 
 

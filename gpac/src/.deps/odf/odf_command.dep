@@ -1,0 +1,11 @@
+odf/odf_command.o: odf/odf_command.c \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/internal/odf_dev.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/mpeg4_odf.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/list.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/tools.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/version.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/revision.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/bitstream.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/sync_layer.h

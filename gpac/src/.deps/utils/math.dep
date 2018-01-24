@@ -1,0 +1,4 @@
+utils/math.o: utils/math.c \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/maths.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h

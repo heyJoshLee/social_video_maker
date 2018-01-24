@@ -1,0 +1,3 @@
+scenegraph/html5_mse_smjs.o: scenegraph/html5_mse_smjs.c \
+ /home/josh/Desktop/web_dev/video_maker/gpac/include/gpac/setup.h \
+ /home/josh/Desktop/web_dev/video_maker/gpac/config.h

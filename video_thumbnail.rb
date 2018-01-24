@@ -7,7 +7,7 @@ class VideoThumbnail
     @count = count
     @series_name = series_name
     write_html_for_word_post
-    convert_html_to_png
+    convert_html_to_png("video_thumbnail.html", "video_thumbnail")
 
   end
 
